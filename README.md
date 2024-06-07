@@ -68,5 +68,5 @@ module.exports = class Monster {
 }
 ```
 
-The monster game class just handled gameplay and the timing of everything, while printing it to the console.
+The monster game class just handled gameplay and the timing of everything, while printing it to the console.\
 <a href="https://joeybez.github.io/joeybezner.github.io/">Back to Home</a>
